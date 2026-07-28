@@ -1,1 +1,1 @@
-{"version": "1.0.6", "versionCode": 7, "note": "更新内容：\n• 支持发送图片和视频消息\n• 新增好友码功能\n• 群头像自定义\n• 修复邀请入群功能\n• 修复用户名和群聊名乱码\n• 添加应用授权支持", "url": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.0.5/BasicChatting.apk"}
+{"version": "1.0.6", "versionCode": 7, "note": "1. 支持Android运行时权限授权\n2. 修复用户名、群聊名等乱码问题\n3. 优化文件选择器权限处理\n4. 修复HTML编码问题", "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.0.5/BasicChatting.apk"}
