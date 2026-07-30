@@ -1,7 +1,7 @@
 {
   "version": "1.1.0",
   "versionCode": 11,
-  "note": "易信 v1.1.0 更新内容:\n1. 修复登录问题（密码哈希一致性）\n2. 修复注册无响应问题\n3. 修复卡死/冻结问题\n4. 优化群聊设置功能\n5. 修复群二维码显示\n6. 修复群聊解散功能\n7. 提升应用性能和稳定性\n\n易信博客 v1.2.0 更新内容:\n1. 支持发布视频和图片\n2. 支持定制字体颜色\n3. 新增评论功能\n4. 禁止给自己点赞\n5. 修复多项bug",
+  "note": "易信 v1.1.0 & 易信博客 v1.2.0\n\n修复内容:\n1. 修复登录问题\n2. 修复注册无响应\n3. 修复卡死/冻结\n4. 修复群聊功能\n5. 博客支持视频/图片/字体颜色/评论",
   "chatApp": {
     "version": "1.1.0",
     "versionCode": 11,
@@ -10,7 +10,7 @@
   "blogApp": {
     "version": "1.2.0",
     "versionCode": 12,
-    "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.2.0/YiXinBlog.apk"
+    "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.0/YiXinBlog.apk"
   },
   "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.0/YiXin.apk"
 }
