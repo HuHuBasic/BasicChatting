@@ -1,7 +1,7 @@
 {
   "version": "1.1.0",
   "versionCode": 11,
-  "note": "易信 v1.1.0 & 易信博客 v1.2.0\n\n修复内容:\n1. 修复登录问题\n2. 修复注册无响应\n3. 修复卡死/冻结\n4. 修复群聊功能\n5. 博客支持视频/图片/字体颜色/评论",
+  "note": "易信 v1.1.0 / 易信博客 v1.2.0 / 易信儿童版 v1.0.0\n\n新增:\n1. 支持安卓 4.4+\n2. 新增易信儿童版（彩色界面、家长控制）\n3. 新增 Windows 桌面版 EXE 安装包\n\n修复:\n- 修复登录问题\n- 修复注册无响应\n- 修复卡死/冻结",
   "chatApp": {
     "version": "1.1.0",
     "versionCode": 11,
@@ -11,6 +11,15 @@
     "version": "1.2.0",
     "versionCode": 12,
     "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.0/YiXinBlog.apk"
+  },
+  "kidsApp": {
+    "version": "1.0.0",
+    "versionCode": 1,
+    "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.0/YiXinKids.apk"
+  },
+  "windowsApp": {
+    "version": "1.0.0",
+    "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.0/%E6%98%93%E4%BF%A1-Setup-1.0.0.exe"
   },
   "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.0/YiXin.apk"
 }
