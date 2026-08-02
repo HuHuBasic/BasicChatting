@@ -1,25 +1,30 @@
 {
-  "version": "1.1.0",
-  "versionCode": 11,
-  "note": "易信 v1.1.0 / 易信博客 v1.2.0 / 易信儿童版 v1.0.0\n\n新增:\n1. 支持安卓 4.4+\n2. 新增易信儿童版（彩色界面、家长控制）\n3. 新增 Windows 桌面版 EXE 安装包\n\n修复:\n- 修复登录问题\n- 修复注册无响应\n- 修复卡死/冻结",
+  "version": "1.1.1",
+  "versionCode": 111,
+  "note": "易信 v1.1.1 / 易信博客 v1.2.1 / 易信儿童版 v1.0.1 / 易信手表 v1.0.1\n\n核心修复:\n- 修复 MIUI 安装失败(-108)问题\n- 使用完整基础 APK 重新构建\n- Manifest 结构与原始一致\n- 不再添加多余属性\n- 保留原始 usesCleartextTraffic",
   "chatApp": {
-    "version": "1.1.0",
-    "versionCode": 11,
-    "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.0/YiXin.apk"
+    "version": "1.1.1",
+    "versionCode": 111,
+    "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.1/YiXin.apk"
   },
   "blogApp": {
-    "version": "1.2.0",
-    "versionCode": 12,
-    "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.0/YiXinBlog.apk"
+    "version": "1.2.1",
+    "versionCode": 121,
+    "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.1/YiXinBlog.apk"
   },
   "kidsApp": {
-    "version": "1.0.0",
-    "versionCode": 1,
-    "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.0/YiXinKids.apk"
+    "version": "1.0.1",
+    "versionCode": 101,
+    "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.1/YiXinKids.apk"
+  },
+  "watchApp": {
+    "version": "1.0.1",
+    "versionCode": 101,
+    "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.1/YiXinWatch.apk"
   },
   "windowsApp": {
     "version": "1.0.0",
-    "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.0/%E6%98%93%E4%BF%A1-Setup-1.0.0.exe"
+    "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.1/YiXin-Setup-1.0.0.exe"
   },
-  "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.0/YiXin.apk"
+  "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.1/YiXin.apk"
 }
