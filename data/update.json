@@ -1,30 +1,26 @@
 {
-  "version": "1.1.1",
-  "versionCode": 111,
-  "note": "易信 v1.1.1 / 易信博客 v1.2.1 / 易信儿童版 v1.0.1 / 易信手表 v1.0.1\n\n核心修复:\n- 修复 MIUI 安装失败(-108)问题\n- 使用完整基础 APK 重新构建\n- Manifest 结构与原始一致\n- 不再添加多余属性\n- 保留原始 usesCleartextTraffic",
+  "version": "1.1.2",
+  "versionCode": 112,
+  "note": "v1.1.2 - 修复卡死问题\n\n核心修复:\n- 合并5个轮询为1个统一轮询\n- 登录改为并行获取(3倍提速)\n- 添加请求缓存(3秒去重)\n- 发送消息时暂停轮询避免冲突\n- 增加轮询间隔减少API调用",
   "chatApp": {
-    "version": "1.1.1",
-    "versionCode": 111,
-    "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.1/YiXin.apk"
+    "version": "1.1.2",
+    "versionCode": 112,
+    "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.2/YiXin.apk"
   },
   "blogApp": {
-    "version": "1.2.1",
-    "versionCode": 121,
-    "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.1/YiXinBlog.apk"
+    "version": "1.2.2",
+    "versionCode": 122,
+    "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.2/YiXinBlog.apk"
   },
   "kidsApp": {
-    "version": "1.0.1",
-    "versionCode": 101,
-    "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.1/YiXinKids.apk"
+    "version": "1.0.2",
+    "versionCode": 102,
+    "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.2/YiXinKids.apk"
   },
   "watchApp": {
-    "version": "1.0.1",
-    "versionCode": 101,
-    "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.1/YiXinWatch.apk"
+    "version": "1.0.2",
+    "versionCode": 102,
+    "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.2/YiXinWatch.apk"
   },
-  "windowsApp": {
-    "version": "1.0.0",
-    "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.1/YiXin-Setup-1.0.0.exe"
-  },
-  "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.1/YiXin.apk"
+  "downloadUrl": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.1.2/YiXin.apk"
 }
