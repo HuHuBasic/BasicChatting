@@ -1,23 +1,34 @@
 {
-  "latest": {
-    "version": "1.2.1",
-    "versionCode": 13,
-    "url": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.2.1/YiXin.apk",
-    "changelog": "Fix freeze: JS-level XHR abort timeout"
-  },
-  "blog": {
-    "version": "1.3.1",
+  "yixin": {
+    "version": "1.2.2",
     "versionCode": 14,
-    "url": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.2.1/YiXinBlog.apk"
+    "url": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.2.2/YiXin.apk",
+    "size": 1154749,
+    "md5": "741b90d943789adfe18e5c79683beec7",
+    "changes": "修复冻结问题：JS级XHR超时+请求去重"
   },
-  "kids": {
-    "version": "1.1.1",
-    "versionCode": 3,
-    "url": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.2.1/YiXinKids.apk"
+  "yixinBlog": {
+    "version": "1.3.2",
+    "versionCode": 15,
+    "url": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.2.2/YiXinBlog.apk",
+    "size": 1142461,
+    "md5": "caef3bbb6062c6df228236b3b83a82e6",
+    "changes": "修复冻结：去除阻塞loading+服务器验证autoLogin"
   },
-  "watch": {
-    "version": "1.1.1",
-    "versionCode": 3,
-    "url": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.2.1/YiXinWatch.apk"
+  "yixinKids": {
+    "version": "1.1.2",
+    "versionCode": 4,
+    "url": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.2.2/YiXinKids.apk",
+    "size": 1142461,
+    "md5": "33af2239528bd0ec708d5548ec3ff307",
+    "changes": "修复冻结问题：JS级XHR超时+请求去重"
+  },
+  "yixinWatch": {
+    "version": "1.1.2",
+    "versionCode": 4,
+    "url": "https://github.com/HuHuBasic/BasicChatting/releases/download/v1.2.2/YiXinWatch.apk",
+    "size": 1138365,
+    "md5": "3ee303519fd09ca912bf2ddfe640a60b",
+    "changes": "修复冻结问题：JS级XHR超时+请求去重"
   }
 }
